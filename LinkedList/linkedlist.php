@@ -3,7 +3,7 @@
 /** 
 * Title: Single linked list
 * Description: Implementation of a single linked list in PHP 
-* @author Sameer Borate | codediesel.com
+* @author subhash diwakar
 * @version 1.0.1 Updated: 16th August 2012
 */
  
